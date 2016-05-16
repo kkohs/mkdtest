@@ -1,7 +1,7 @@
-# mkdtest
+# HELLO ITS ME!
 
+### ...........XXXX....XXx...:Lad:@!#l2k3;q
 
-Reference-style: 
 ![alt text][logo]
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+[logo]: http://vignette4.wikia.nocookie.net/warframe/images/5/5f/Famous-characters-Troll-face-45719.png/revision/latest?cb=20140702154027 "NIMBUS 2.0"
